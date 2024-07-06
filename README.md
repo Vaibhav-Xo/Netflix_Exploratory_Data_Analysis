@@ -1,8 +1,8 @@
 # Netflix_Exploratory_Data_Analysis
 ![Netflix_LinkdinHeader_N_Texture_5](https://github.com/Vaibhav-Xo/Netflix_Exploratory_Data_Analysis/assets/172389348/b470e1fe-10aa-4023-a735-67a75a979eed)
 
-#### Note: Use below link to view the project
-https://colab.research.google.com/drive/1BnWweu3b1BUbdUaZbAzM8ONxSekTRwF9?usp=sharing
+### Colab Link= <a href="https://colab.research.google.com/drive/1BnWweu3b1BUbdUaZbAzM8ONxSekTRwF9?usp=sharing">View_Me</A>
+#### Note: As dynamic charts are not supported on Github, I am sharing my colab link below. Please care to take a look at it 😊
 
 # Project Overview
 This project delves into the fascinating world of Netflix data. Through exploratory analysis we uncover patterns, trends, and insights hidden within the streaming giant’s vast content library. Whether you’re a data enthusiast, a curious viewer, or a business strategist, this EDA provides valuable takeaways.
